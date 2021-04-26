@@ -12,6 +12,8 @@ var searchData=
   ['setvelocityx',['SetVelocityX',['../classTransformComponent.html#a210523df42986a8272a21d6bfde9ff06',1,'TransformComponent']]],
   ['setvelocityy',['SetVelocityY',['../classTransformComponent.html#a6fa7058f9330f97507520d8ab3642f9b',1,'TransformComponent']]],
   ['setwidth',['SetWidth',['../classTransformComponent.html#a1c912e7d8b8326c9cbc9c5b18357029b',1,'TransformComponent']]],
+  ['sheet_5fheight',['sheet_height',['../namespacetest.html#aaa15b4c48c3ed6ee854d478f6e663727',1,'test']]],
+  ['sheet_5fwidth',['sheet_width',['../namespacetest.html#af8a1ec277271b519f5bfbd5cef9947b8',1,'test']]],
   ['shutdown',['Shutdown',['../classAudioManager.html#a8956677aeb7abb69b5254c2a89315f9f',1,'AudioManager::Shutdown()'],['../classEngine.html#a3dbd2c0a65e642baa7eaa97caa6e4e64',1,'Engine::Shutdown()'],['../classResourceManager.html#ad69916a57c142341802f13585d267851',1,'ResourceManager::Shutdown()']]],
   ['sprite',['Sprite',['../classSprite.html',1,'Sprite'],['../classSprite.html#a303b492a34971eee9e6918a9425b4ce5',1,'Sprite::Sprite()']]],
   ['sprite_2ecpp',['Sprite.cpp',['../Sprite_8cpp.html',1,'']]],

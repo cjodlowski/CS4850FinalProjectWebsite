@@ -7,5 +7,8 @@ var searchData=
   ['renderpresent',['RenderPresent',['../classGraphicsEngineRenderer.html#add023e7b5c97b9c61f6656c6ecf889bb',1,'GraphicsEngineRenderer']]],
   ['resourcemanager',['ResourceManager',['../classResourceManager.html',1,'ResourceManager'],['../classResourceManager.html#a3b32babd2e81909bbd90d7f2d566fadb',1,'ResourceManager::ResourceManager()']]],
   ['resourcemanager_2ecpp',['ResourceManager.cpp',['../ResourceManager_8cpp.html',1,'']]],
-  ['resourcemanager_2ehpp',['ResourceManager.hpp',['../ResourceManager_8hpp.html',1,'']]]
+  ['resourcemanager_2ehpp',['ResourceManager.hpp',['../ResourceManager_8hpp.html',1,'']]],
+  ['rmang',['rMang',['../namespacetest.html#a0bf23137eed2f41fa42adc808af18e2f',1,'test']]],
+  ['rmangtemp',['rMangTemp',['../namespacetest.html#a73cc8fe0fda72fe5d60f68ace2b3b9a5',1,'test']]],
+  ['rungame',['runGame',['../namespacetest.html#a8be5f8aa14a9f1233e72bd87fa5fdb53',1,'test']]]
 ];
