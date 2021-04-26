@@ -1,0 +1,10 @@
+<map id="ResourceManager::LoadCollectibles" name="ResourceManager::LoadCollectibles">
+<area shape="rect" id="node2" href="$classResourceManager.html#a2f361ec2df86e0103a48f859986dd34c" title="ResourceManager::MakeFruit" alt="" coords="293,111,488,138"/>
+<area shape="rect" id="node7" href="$classGameManager.html#a09e6d063618a087f651cdcc871519108" title="GameManager::NumCollectibles" alt="" coords="285,162,496,189"/>
+<area shape="rect" id="node8" href="$classResourceManager.html#af1da313c5445d1347d0a29b05f7d8fea" title="ResourceManager::AddGame\lObject" alt="" coords="293,213,488,255"/>
+<area shape="rect" id="node9" href="$classGameManager.html#a1ca286da931e3e862c605611d99894d0" title="GameManager::AddCollectible" alt="" coords="291,279,490,306"/>
+<area shape="rect" id="node3" href="$classTransformComponent.html#a4531af020a50fe348c371726d4134e18" title="TransformComponent\l::SetPosition" alt="" coords="567,5,715,47"/>
+<area shape="rect" id="node4" href="$classTransformComponent.html#a1c912e7d8b8326c9cbc9c5b18357029b" title="TransformComponent\l::SetWidth" alt="" coords="567,71,715,112"/>
+<area shape="rect" id="node5" href="$classTransformComponent.html#a6943cfc53862743c7a2b18bb116148b0" title="TransformComponent\l::SetHeight" alt="" coords="567,136,715,177"/>
+<area shape="rect" id="node6" href="$classGameObject.html#a0d33d826d709a1e4496e568193fb9c57" title="GameObject::AddComponent" alt="" coords="544,202,737,229"/>
+</map>

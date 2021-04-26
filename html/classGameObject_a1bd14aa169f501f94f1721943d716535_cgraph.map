@@ -1,0 +1,13 @@
+<map id="GameObject::Update" name="GameObject::Update">
+<area shape="rect" id="node2" href="$classCollisionComponent.html#a1b1d1f14e8b83cb05f8b7a8190515b5e" title="CollisionComponent\l::Update" alt="" coords="199,143,337,185"/>
+<area shape="rect" id="node3" href="$classCollisionComponent.html#a408b6ae6e899583345f32775f4f478ad" title="CollisionComponent\l::UpdateCollisions" alt="" coords="199,209,337,250"/>
+<area shape="rect" id="node4" href="$classTileMap.html#adc70fab971a20bd3ce7ee9ea0f668702" title="TileMap::GetNumRows" alt="" coords="385,5,544,32"/>
+<area shape="rect" id="node5" href="$classTileMap.html#a69aa2648badd5e6c018adafc68064824" title="TileMap::GetNumCols" alt="" coords="389,56,541,83"/>
+<area shape="rect" id="node6" href="$classTileMap.html#a9be13296fe7731f0788340e59922923c" title="TileMap::GetTileType" alt="" coords="391,107,538,133"/>
+<area shape="rect" id="node7" href="$classTileMap.html#ab7a8a04c9e832c00fee8e94b3adc0daa" title="TileMap::GetTileRect" alt="" coords="391,157,538,184"/>
+<area shape="rect" id="node8" href="$classTransformComponent.html#a6fa7058f9330f97507520d8ab3642f9b" title="TransformComponent\l::SetVelocityY" alt="" coords="391,209,539,250"/>
+<area shape="rect" id="node9" href="$classTransformComponent.html#a210523df42986a8272a21d6bfde9ff06" title="TransformComponent\l::SetVelocityX" alt="" coords="391,274,539,315"/>
+<area shape="rect" id="node10" href="$classTransformComponent.html#a792efa9f5451e5959d14e408d406283a" title="TransformComponent\l::GetPosition" alt="" coords="391,339,539,381"/>
+<area shape="rect" id="node11" href="$classTransformComponent.html#aad69f039f9fd61543d4dbed4de7179cc" title="TransformComponent\l::GetDimensions" alt="" coords="391,405,539,446"/>
+<area shape="rect" id="node12" href="$classTransformComponent.html#a4531af020a50fe348c371726d4134e18" title="TransformComponent\l::SetPosition" alt="" coords="391,470,539,511"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="GameManager::SaveEnemies" name="GameManager::SaveEnemies">
+<area shape="rect" id="node2" href="$classAIControllerComponent.html#a5b2a63db93250631b47ed182614efef8" title="AIControllerComponent\l::GetType" alt="" coords="249,5,408,47"/>
+<area shape="rect" id="node3" href="$classAIControllerComponent.html#a03939a2311875e408e9fad9a4dd6b940" title="AIControllerComponent\l::GetStartPosition" alt="" coords="249,71,408,112"/>
+<area shape="rect" id="node5" href="$classAIControllerComponent.html#a96f1cba42edb061a5289946735273ff4" title="AIControllerComponent\l::GetRadius" alt="" coords="249,136,408,177"/>
+<area shape="rect" id="node4" href="$classTransformComponent.html#a792efa9f5451e5959d14e408d406283a" title="TransformComponent\l::GetPosition" alt="" coords="456,71,604,112"/>
+</map>

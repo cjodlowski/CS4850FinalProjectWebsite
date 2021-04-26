@@ -1,0 +1,10 @@
+<map id="ResourceManager::LoadEnemies" name="ResourceManager::LoadEnemies">
+<area shape="rect" id="node2" href="$classResourceManager.html#ae8aab5d0831e1c5bb56702363f2c46a2" title="ResourceManager::MakeEnemy" alt="" coords="268,111,477,138"/>
+<area shape="rect" id="node7" href="$classGameManager.html#adc67a791aac136fe2a8408ba227df3df" title="GameManager::NumEnemies" alt="" coords="275,162,470,189"/>
+<area shape="rect" id="node8" href="$classResourceManager.html#af1da313c5445d1347d0a29b05f7d8fea" title="ResourceManager::AddGame\lObject" alt="" coords="275,213,470,255"/>
+<area shape="rect" id="node9" href="$classGameManager.html#a891afab862a72613307de379d7106308" title="GameManager::AddEnemy" alt="" coords="283,279,462,306"/>
+<area shape="rect" id="node3" href="$classTransformComponent.html#a4531af020a50fe348c371726d4134e18" title="TransformComponent\l::SetPosition" alt="" coords="548,5,696,47"/>
+<area shape="rect" id="node4" href="$classTransformComponent.html#a1c912e7d8b8326c9cbc9c5b18357029b" title="TransformComponent\l::SetWidth" alt="" coords="548,71,696,112"/>
+<area shape="rect" id="node5" href="$classTransformComponent.html#a6943cfc53862743c7a2b18bb116148b0" title="TransformComponent\l::SetHeight" alt="" coords="548,136,696,177"/>
+<area shape="rect" id="node6" href="$classGameObject.html#a0d33d826d709a1e4496e568193fb9c57" title="GameObject::AddComponent" alt="" coords="525,202,719,229"/>
+</map>

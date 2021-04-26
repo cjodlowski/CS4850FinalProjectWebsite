@@ -1,0 +1,10 @@
+<map id="include/CollectibleComponent.hpp" name="include/CollectibleComponent.hpp">
+<area shape="rect" id="node2" href="$CollectibleComponent_8cpp.html" title="src/CollectibleComponent.cpp" alt="" coords="5,80,203,107"/>
+<area shape="rect" id="node3" href="$ResourceManager_8cpp.html" title="src/ResourceManager.cpp" alt="" coords="249,229,423,256"/>
+<area shape="rect" id="node4" href="$GameManager_8hpp.html" title="include/GameManager.hpp" alt="" coords="278,80,455,107"/>
+<area shape="rect" id="node5" href="$GameManager_8cpp.html" title="src/GameManager.cpp" alt="" coords="277,155,432,181"/>
+<area shape="rect" id="node6" href="$ResourceManager_8hpp.html" title="include/ResourceManager.hpp" alt="" coords="457,155,655,181"/>
+<area shape="rect" id="node7" href="$pybindHolder_8cpp.html" title="src/pybindHolder.cpp" alt="" coords="431,304,577,331"/>
+<area shape="rect" id="node8" href="$Engine_8hpp.html" title="include/Engine.hpp" alt="" coords="542,229,674,256"/>
+<area shape="rect" id="node9" href="$Engine_8cpp.html" title="src/Engine.cpp" alt="" coords="601,304,711,331"/>
+</map>

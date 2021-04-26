@@ -1,0 +1,11 @@
+<map id="ResourceManager::Update" name="ResourceManager::Update">
+<area shape="rect" id="node2" href="$classGameManager.html#af3bb4452ac262ec8a68dcc3eea2f0124" title="GameManager::Update" alt="" coords="232,227,389,254"/>
+<area shape="rect" id="node3" href="$classTransformComponent.html#a792efa9f5451e5959d14e408d406283a" title="TransformComponent\l::GetPosition" alt="" coords="469,5,617,47"/>
+<area shape="rect" id="node4" href="$classTransformComponent.html#aad69f039f9fd61543d4dbed4de7179cc" title="TransformComponent\l::GetDimensions" alt="" coords="469,71,617,112"/>
+<area shape="rect" id="node5" href="$classTransformComponent.html#a4531af020a50fe348c371726d4134e18" title="TransformComponent\l::SetPosition" alt="" coords="469,136,617,177"/>
+<area shape="rect" id="node6" href="$classGameManager.html#a09e6d063618a087f651cdcc871519108" title="GameManager::NumCollectibles" alt="" coords="437,202,648,229"/>
+<area shape="rect" id="node7" href="$classTileMap.html#adc70fab971a20bd3ce7ee9ea0f668702" title="TileMap::GetNumRows" alt="" coords="463,253,622,279"/>
+<area shape="rect" id="node8" href="$classTileMap.html#a69aa2648badd5e6c018adafc68064824" title="TileMap::GetNumCols" alt="" coords="467,303,619,330"/>
+<area shape="rect" id="node9" href="$classTileMap.html#a9be13296fe7731f0788340e59922923c" title="TileMap::GetTileType" alt="" coords="469,354,616,381"/>
+<area shape="rect" id="node10" href="$classTileMap.html#a6da6909d12aa2da56df1d10a5ac7a6e2" title="TileMap::SetTile" alt="" coords="484,405,601,431"/>
+</map>

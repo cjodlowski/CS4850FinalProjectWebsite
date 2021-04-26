@@ -1,0 +1,11 @@
+<map id="Component" name="Component">
+<area shape="rect" id="node2" href="$classAIControllerComponent.html" title="{AIControllerComponent\n||+ AIControllerComponent()\l+ AIControllerComponent()\l+ ~AIControllerComponent()\l+ Update()\l+ Render()\l+ GetType()\l+ GetStartPosition()\l+ GetRadius()\l}" alt="" coords="5,211,192,391"/>
+<area shape="rect" id="node3" href="$classBackground.html" title="{Background\n||+ Background()\l+ ~Background()\l+ Update()\l+ Render()\l}" alt="" coords="217,241,335,362"/>
+<area shape="rect" id="node4" href="$classCollectibleComponent.html" title="{CollectibleComponent\n||+ CollectibleComponent()\l+ ~CollectibleComponent()\l+ Update()\l+ Render()\l+ GetType()\l}" alt="" coords="360,233,539,369"/>
+<area shape="rect" id="node5" href="$classCollisionComponent.html" title="{CollisionComponent\n||+ CollisionComponent()\l+ ~CollisionComponent()\l+ UpdateCollisions()\l+ Update()\l+ Render()\l}" alt="" coords="563,233,730,369"/>
+<area shape="rect" id="node6" href="$classControllerComponent.html" title="{ControllerComponent\n||+ ControllerComponent()\l+ ~ControllerComponent()\l+ Update()\l+ Render()\l+ Input()\l}" alt="" coords="755,233,928,369"/>
+<area shape="rect" id="node7" href="$classPhysicsComponent.html" title="{PhysicsComponent\n||+ PhysicsComponent()\l+ PhysicsComponent()\l+ ~PhysicsComponent()\l+ Update()\l+ Render()\l}" alt="" coords="953,233,1117,369"/>
+<area shape="rect" id="node8" href="$classSprite.html" title="{Sprite\n||+ Sprite()\l+ ~Sprite()\l+ Update()\l+ Render()\l}" alt="" coords="1141,241,1225,362"/>
+<area shape="rect" id="node9" href="$classTileMap.html" title="{TileMap\n||+ TileMap()\l+ ~TileMap()\l+ LoadMap()\l+ SaveMap()\l+ PrintMap()\l+ SetTile()\l+ GetTileType()\l+ GetNumRows()\l+ GetNumCols()\l+ GetTileRect()\l+ Render()\l+ Update()\l}" alt="" coords="1249,182,1375,421"/>
+<area shape="rect" id="node10" href="$classTransformComponent.html" title="{TransformComponent\n|+ hash\l|+ TransformComponent()\l+ ~TransformComponent()\l+ Update()\l+ Render()\l+ GetPosition()\l+ GetVelocity()\l+ GetDimensions()\l+ SetPosition()\l+ SetVelocity()\l+ SetVelocityX()\l+ SetVelocityY()\l+ SetWidth()\l+ SetHeight()\l}" alt="" coords="1399,175,1575,428"/>
+</map>

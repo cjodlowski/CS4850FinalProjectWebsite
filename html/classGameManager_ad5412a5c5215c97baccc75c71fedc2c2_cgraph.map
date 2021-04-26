@@ -1,0 +1,4 @@
+<map id="GameManager::SaveCollectibles" name="GameManager::SaveCollectibles">
+<area shape="rect" id="node2" href="$classCollectibleComponent.html#ab669605cd8872957190b9bf0e6456b75" title="CollectibleComponent\l::GetType" alt="" coords="267,5,417,47"/>
+<area shape="rect" id="node3" href="$classTransformComponent.html#a792efa9f5451e5959d14e408d406283a" title="TransformComponent\l::GetPosition" alt="" coords="268,71,416,112"/>
+</map>

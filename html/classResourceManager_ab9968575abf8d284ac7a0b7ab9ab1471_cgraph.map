@@ -1,0 +1,11 @@
+<map id="ResourceManager::SaveState" name="ResourceManager::SaveState">
+<area shape="rect" id="node2" href="$classTileMap.html#aa2e2790f2504c4c3ac8e842ba8c844d8" title="TileMap::SaveMap" alt="" coords="292,43,423,69"/>
+<area shape="rect" id="node4" href="$classGameManager.html#a2f372a1c0a16180349a108e43016de40" title="GameManager::SaveEnemies" alt="" coords="259,129,455,156"/>
+<area shape="rect" id="node9" href="$classGameManager.html#ad5412a5c5215c97baccc75c71fedc2c2" title="GameManager::SaveCollectibles" alt="" coords="251,253,464,280"/>
+<area shape="rect" id="node3" href="$classTileMap.html#a9be13296fe7731f0788340e59922923c" title="TileMap::GetTileType" alt="" coords="518,5,665,32"/>
+<area shape="rect" id="node5" href="$classAIControllerComponent.html#a5b2a63db93250631b47ed182614efef8" title="AIControllerComponent\l::GetType" alt="" coords="512,57,671,98"/>
+<area shape="rect" id="node6" href="$classAIControllerComponent.html#a03939a2311875e408e9fad9a4dd6b940" title="AIControllerComponent\l::GetStartPosition" alt="" coords="512,122,671,163"/>
+<area shape="rect" id="node8" href="$classAIControllerComponent.html#a96f1cba42edb061a5289946735273ff4" title="AIControllerComponent\l::GetRadius" alt="" coords="512,187,671,229"/>
+<area shape="rect" id="node7" href="$classTransformComponent.html#a792efa9f5451e5959d14e408d406283a" title="TransformComponent\l::GetPosition" alt="" coords="719,185,867,226"/>
+<area shape="rect" id="node10" href="$classCollectibleComponent.html#ab669605cd8872957190b9bf0e6456b75" title="CollectibleComponent\l::GetType" alt="" coords="516,305,667,346"/>
+</map>

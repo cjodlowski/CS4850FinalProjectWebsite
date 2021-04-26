@@ -1,0 +1,6 @@
+<map id="ResourceManager::MakeFruit" name="ResourceManager::MakeFruit">
+<area shape="rect" id="node2" href="$classTransformComponent.html#a4531af020a50fe348c371726d4134e18" title="TransformComponent\l::SetPosition" alt="" coords="271,5,419,47"/>
+<area shape="rect" id="node3" href="$classTransformComponent.html#a1c912e7d8b8326c9cbc9c5b18357029b" title="TransformComponent\l::SetWidth" alt="" coords="271,71,419,112"/>
+<area shape="rect" id="node4" href="$classTransformComponent.html#a6943cfc53862743c7a2b18bb116148b0" title="TransformComponent\l::SetHeight" alt="" coords="271,136,419,177"/>
+<area shape="rect" id="node5" href="$classGameObject.html#a0d33d826d709a1e4496e568193fb9c57" title="GameObject::AddComponent" alt="" coords="248,202,441,229"/>
+</map>

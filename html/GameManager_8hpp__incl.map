@@ -1,0 +1,10 @@
+<map id="include/GameManager.hpp" name="include/GameManager.hpp">
+<area shape="rect" id="node7" href="$GameObject_8hpp.html" title="GameObject.hpp" alt="" coords="420,80,540,107"/>
+<area shape="rect" id="node12" href="$TransformComponent_8hpp.html" title="TransformComponent.hpp" alt="" coords="621,229,795,256"/>
+<area shape="rect" id="node17" href="$AIControllerComponent_8hpp.html" title="AIControllerComponent.hpp" alt="" coords="746,155,929,181"/>
+<area shape="rect" id="node18" href="$CollectibleComponent_8hpp.html" title="CollectibleComponent.hpp" alt="" coords="875,229,1050,256"/>
+<area shape="rect" id="node9" href="$Component_8hpp.html" title="Component.hpp" alt="" coords="596,304,711,331"/>
+<area shape="rect" id="node11" href="$ControllerComponent_8hpp.html" title="ControllerComponent.hpp" alt="" coords="500,155,671,181"/>
+<area shape="rect" id="node13" href="$TileMap_8hpp.html" title="TileMap.hpp" alt="" coords="332,229,425,256"/>
+<area shape="rect" id="node15" href="$GraphicsEngineRenderer_8hpp.html" title="GraphicsEngineRenderer.hpp" alt="" coords="380,304,572,331"/>
+</map>

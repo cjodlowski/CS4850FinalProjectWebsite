@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classComponent.html" title="Component" alt="" coords="5,208,95,235"/>
+<area shape="rect" id="node2" href="$classAIControllerComponent.html" title="AIControllerComponent" alt="" coords="143,5,301,32"/>
+<area shape="rect" id="node3" href="$classBackground.html" title="Background" alt="" coords="177,56,267,83"/>
+<area shape="rect" id="node4" href="$classCollectibleComponent.html" title="CollectibleComponent" alt="" coords="147,107,297,133"/>
+<area shape="rect" id="node5" href="$classCollisionComponent.html" title="CollisionComponent" alt="" coords="153,157,291,184"/>
+<area shape="rect" id="node6" href="$classControllerComponent.html" title="ControllerComponent" alt="" coords="149,208,295,235"/>
+<area shape="rect" id="node7" href="$classPhysicsComponent.html" title="PhysicsComponent" alt="" coords="154,259,290,285"/>
+<area shape="rect" id="node8" href="$classSprite.html" title="Sprite" alt="" coords="194,309,250,336"/>
+<area shape="rect" id="node9" href="$classTileMap.html" title="TileMap" alt="" coords="188,360,256,387"/>
+<area shape="rect" id="node10" href="$classTransformComponent.html" title="TransformComponent" alt="" coords="148,411,296,437"/>
+</map>
